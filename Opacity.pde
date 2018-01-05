@@ -5,7 +5,7 @@ background(0);
 noStroke();
 
 // No fourth argument means 100% opacity.
-fill(0, 0, 255);
+fill(255, 255, 0);
 rect(0, 0, width/2, height);
 
 // 255 means 100% opacity.
